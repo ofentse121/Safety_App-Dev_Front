@@ -1,6 +1,6 @@
 {
-    "name": "safety_app",
-    "short_name": "safety_app",
+    "name": "completereport",
+    "short_name": "completereport",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-package com.example.safety_app
+package com.example.completereport
 
 import io.flutter.embedding.android.FlutterActivity
 
